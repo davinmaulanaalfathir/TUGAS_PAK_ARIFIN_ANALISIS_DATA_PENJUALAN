@@ -2,8 +2,8 @@ Laporan Praktikum Analisis Data
 Kelompok: Davin Maulana Al Fathir & Mochamad Novanda Vianizar
 
 Kelas: XI RPL 8
-**
-1. Apa yang mau kita cari?**
+
+**1. Apa yang mau kita cari?**
 Intinya kelompok kita pengen tahu rahasia dibalik data jualan yang ada:
 
 Siapa pelanggan "Sultan" yang paling rajin belanja di sini?
